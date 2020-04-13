@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+  color: #40514E
+}
+
+h1 {
+  color: #45b29a;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.2rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1e836c;
+  font-size: 2.5em;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #45b29a;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+a {
+  color: #45b29a;
+  font-family: 'Montserrat', sans-serif;
+  margin: 30px;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+a:hover {
+  color: white;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dddbd9;
+  border-width: 5px;
+  width: 3%;
+}
+
+.title2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #45b29a;
+  margin-bottom: 100px;
+}
+
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skills {
+  width: 50%;
+  margin: 90px auto 90px auto;
+}
+
+.bottom-container{
+  background-color: #c5ded7;
+  padding: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 350px;
+  left: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.circular-picture {
+  width: 20%;
+}
+
+.yellow-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.blue-img {
+  float: right;
+  margin-left: 30px;
+}
+
+
+.skill-row {
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 80px;
+
+}
+
+.profile-div {
+  width: 50%;
+  margin: 90px auto 90px auto;
+}
+
+.footer-p {
+  color: white;
+  margin-top: 24px;
+  font-size: 13px;
+}
+
+.BUTTON_VGF {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #1C6757;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 20px 40px;
+  background-color: #45b29a;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px;
+
+}
+
+.BUTTON_VGF:hover {
+  background: #3EA08A;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 90px auto 90px auto;
+}
